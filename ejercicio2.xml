@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listapedidos SYSTEM "ejercicio2.dtd">
+<listapedidos>
+    <pedidos>
+        <numeroserie>1234</numeroserie>
+        <cantidad>5</cantidad>
+        <peso>50</peso>
+    </pedidos>
+    <pedidos>
+        <numeroserie>5678</numeroserie>
+        <cantidad>2</cantidad>
+    </pedidos>
+
+</listapedidos>
